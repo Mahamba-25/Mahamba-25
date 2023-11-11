@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Software Engineering
 - 🌱 I’m currently learning Unity, Unreal Engine 4, C++, C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mahamba.002@gmail.com
+- 📫 How to reach me mahamba.001@gmail.com
 
 <!---
 Mahamba-25/Mahamba-25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
