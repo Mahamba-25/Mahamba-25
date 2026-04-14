@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahamba-25
 - 👀 I’m interested in Game Development and Software Engineering
-- 🌱 I’m currently learning Unity, Unreal Engine 4, C#
+- 🌱 I’m keen on Unity, Godot. Learning Unreal Engine 5, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mahamba.001@gmail.com
 
